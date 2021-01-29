@@ -1,2 +1,1 @@
-# stock_user_api
-toC的用户层
+管理员API层
